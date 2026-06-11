@@ -1,0 +1,7 @@
+thresholds:
+  cpu_usage_max: 80      # CPU 利用率超过 80% 告警
+  memory_usage_max: 85   # 内存利用率超过 85% 告警
+
+alert_channels:
+  dingtalk: false
+  email: false
