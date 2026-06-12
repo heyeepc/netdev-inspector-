@@ -1,5 +1,12 @@
 ## netdev-inspector ##
 
+# 安装核心依赖
+```text
+pip install netmiko openpyxl pyyaml
+
+```
+
+
 ## 📂 项目结构
 
 ```text
