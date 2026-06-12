@@ -2,18 +2,21 @@
 
 ## 📂 项目结构
 
+```text
 
-# PythonProject2/
-# ├── .venv/
-# ├── config/
-# │   ├── devices.yaml
-# │   └── settings.yaml
-# ├── logs/
-# │   └── inspector.log (implied)
-# ├── utils/
-# │   ├── data_processor.py
-# │   └── excel_reporter.py
-# └── inspect_main.py
+ PythonProject2/
+├── .venv/
+├── config/
+│   ├── devices.yaml
+│   └── settings.yaml
+├── logs/
+│   └── inspector.log (implied)
+├── utils/
+│   ├── data_processor.py
+│   └── excel_reporter.py
+└── inspect_main.py
+
+```
 
 readme_content = """# Multi-Threaded Network Automation O&M Inspection System
 
