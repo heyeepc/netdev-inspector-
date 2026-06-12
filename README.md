@@ -59,3 +59,6 @@ thresholds:
   cpu_usage_max: 80
   memory_usage_max: 90
 ```
+#效果
+<img width="495" height="106" alt="image" src="https://github.com/user-attachments/assets/aa810659-4a90-4952-8c5b-a56c90d3cdf1" />
+
