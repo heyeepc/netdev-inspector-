@@ -19,7 +19,7 @@ logging.basicConfig(
 
 # 💡 提示：如果你在电脑上连着 eNSP 调数通，把这里改成 False。
 # 如果想先看表格扩展后的模拟效果，可以先保持 True 跑一次！
-MOCK_MODE = True
+MOCK_MODE = False
 
 
 def load_config():

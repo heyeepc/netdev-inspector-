@@ -1,0 +1,5 @@
+- ip:
+  device_type: linux
+  username:
+  password: 
+  port: 22
