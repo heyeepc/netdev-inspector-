@@ -37,3 +37,20 @@ readme_content = """# Multi-Threaded Network Automation O&M Inspection System
 
 ---
 
+在 config/devices.yaml 中配置你需要巡检的真实设备信息（如你的实体树莓派或网络设备）：
+
+```python
+- ip: 
+  device_type: linux
+  username: 
+  password: your_password_here
+  port: 22
+```
+
+在 config/settings.yaml 中定义全局告警阈值：
+
+```python
+thresholds:
+  cpu_usage_max: 80
+  memory_usage_max: 90
+```
