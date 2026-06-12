@@ -29,8 +29,6 @@ readme_content = """# Multi-Threaded Network Automation O&M Inspection System
 
 这是一个基于 Python 开发的网络自动化巡检与运维监控系统。系统支持异构网络环境，能够同时并发登录多个网络节点（如 Linux 服务器、树莓派、主流数通设备等），自动执行巡检指令，解析系统核心指标（CPU、内存、业务服务状态、网络连通性等），并自动生成标准的企业级 Excel 巡检月度报告。
 
-本项目非常适合用于自动化运维（NetDevOps）实战、毕设参考或个人简历项目加分。
-
 ---
 
 ## 🚀 核心特性
